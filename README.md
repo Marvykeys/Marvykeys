@@ -1,4 +1,4 @@
-### Introducing Myself :information_desk_person:
+### Introducing myself :information_desk_person:
 Hi there! I trust you are good.
 I'm Marvellous, a self-taught data analyst from Nigeria. With a background in accounting, I transitioned to data in 2021 and have been learning and mastering by myself MS Excel, SQL, Python, Tableau and MS Power BI ever since.
 
