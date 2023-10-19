@@ -1,4 +1,7 @@
-### Introducing myself :information_desk_person:
+### Introducing myself :information_desk_person: # 
+<img width="650" alt="MARVY_EYUBE_BACKGROUND" src="https://github.com/Marvykeys/Marvykeys/assets/130637591/049b857f-18fb-4587-b32b-ecde9afcac2a">
+
+
 Hi there! I trust you are good.
 I'm Marvellous, a self-taught data analyst from Nigeria. With a background in accounting, I transitioned to data in 2021 and have been learning and mastering by myself MS Excel, SQL, Python, Tableau and MS Power BI ever since.
 
