@@ -3,7 +3,7 @@
 
 
 Hi there! I trust you are good.
-I'm Marvellous, a self-taught data analyst from Nigeria. With a background in accounting, I transitioned to data in 2021 and have been learning and mastering by myself MS Excel, SQL, Python, Tableau and MS Power BI ever since.
+I'm Marvellous, a data analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
 ### :books: Projects :books:
 <!--
