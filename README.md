@@ -12,7 +12,7 @@ I'm Marvellous, a data analytics professional; with expertise in data analysis a
 
 ### :books: Projects :books:
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Marvykeys/Marvy-Portfolio-Guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
