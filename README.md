@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Marvy
 
 ### 🛠️ Tools
 
-- Language: SQL, Python
+- Language/Tool: SQL, Python, Microsoft Excel
 - Database: Google BigQuery, PostgreSQL, MySQL, MS SQL Server
 - Visualization: MS Power BI, Tableau, Matplotlib, Seaborn
 
