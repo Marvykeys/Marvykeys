@@ -7,7 +7,7 @@ Hi there! I trust you are good.
 I'm Marvellous, a data analytics professional; with expertise in data analysis and reporting, data modelling, query optimization and database design. 
 
 - Querying data using SQL.
-- Generate reports and perform data analysis using Microsoft Excel, SQL, Python and Business Intelligence tools like Power BI and Tableau.
+- Generating reports and performing data analysis using Microsoft Excel, SQL, Python and Business Intelligence tools which includes Power BI and Tableau.
 - Developing dashboards on Power BI and Tableau.
 
 ### :books: Projects :books:
