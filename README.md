@@ -22,7 +22,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Marvy
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/marvellous-eyube-795444225/)
+- [Linkedin](https://www.linkedin.com/in/marvellous-ufuoma-eyube-795444225)
 - [Twitter](https://twitter.com/Marvy_U)
 <!--
 **Marvykeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
