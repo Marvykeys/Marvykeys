@@ -4,11 +4,7 @@
 
 Hi there! I trust you are good.
 
-I'm Marvellous, a data analytics professional; with expertise in data analysis and reporting, data modelling, query optimization and database design. 
-
-- Querying data using SQL.
-- Generating reports and performing data analysis using Microsoft Excel, SQL, Python and Business Intelligence tools which includes Power BI and Tableau.
-- Developing dashboards on Power BI and Tableau.
+Microsoft Fabric Developer with 4 years of experience spanning data analytics and engineering, specializing in building scalable pipelines, cloud data platforms, and Power BI analytics using Microsoft Fabric and Azure services. Skilled in ETL/ELT development, data modeling, and governance, with a proven track record of integrating systems, automating workflows, and delivering data solutions that empower business intelligence and analytics.
 
 ### :books: Projects :books:
 
