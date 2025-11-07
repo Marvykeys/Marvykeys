@@ -4,7 +4,7 @@
 
 Hi there! I trust you are good.
 
-Masrvellous is a Microsoft Fabric Developer with 4 years of experience spanning data analytics and engineering, specializing in building scalable pipelines, cloud data platforms, and Power BI analytics using Microsoft Fabric and Azure services. Skilled in ETL/ELT development, data modeling, and governance, with a proven track record of integrating systems, automating workflows, and delivering data solutions that empower business intelligence and analytics.
+Marvellous is a Microsoft Fabric Developer with 4 years of experience spanning data analytics and engineering, specializing in building scalable pipelines, cloud data platforms, and Power BI analytics using Microsoft Fabric and Azure services. Skilled in ETL/ELT development, data modeling, and governance, with a proven track record of integrating systems, automating workflows, and delivering data solutions that empower business intelligence and analytics.
 
 ### :books: Projects :books:
 
